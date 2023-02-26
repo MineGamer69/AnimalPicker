@@ -22,7 +22,10 @@ public class animalpicker {
             System.out.println(" (_, o o ,_)");
             System.out.println("    /    \\");
             System.out.println("  `--|__|--'");
+        } else{
+            System.out.println("Invalid choice. Please retry!");
         }
+        
     }
 }
 
