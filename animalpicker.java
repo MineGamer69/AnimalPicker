@@ -23,6 +23,7 @@ public class animalpicker {
             System.out.println("    /    \\");
             System.out.println("  `--|__|--'");
         }
+        System.out.println("Just to restore commit");
     }
 }
 
