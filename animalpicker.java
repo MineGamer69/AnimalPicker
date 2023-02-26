@@ -18,7 +18,9 @@ public class animalpicker {
                 System.out.println(" /\\_/\\");
                 System.out.println("( o.o )");
                 System.out.println(" > ^ <");
-            }  else{
+            }
+            //added placeholders for ascii
+            else{
                 System.out.println("Invalid choice. Please try again!");
             }
         } while(!validInput);
