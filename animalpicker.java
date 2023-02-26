@@ -23,7 +23,7 @@ public class animalpicker {
             System.out.println("    /    \\");
             System.out.println("  `--|__|--'");
         } else{
-            System.out.println("Invalid choice. Please retry!");
+            System.out.println("Invalid choice. Please retry now!");
         }
         
     }
