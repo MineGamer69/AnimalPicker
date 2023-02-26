@@ -18,7 +18,15 @@ public class animalpicker {
                 System.out.println(" /\\_/\\");
                 System.out.println("( o.o )");
                 System.out.println(" > ^ <");
-            }  else{
+            }else if (animalChoice.equalsIgnoreCase("fish")) {
+                System.out.println("     ><> ");
+                System.out.println("  ,-'`~`'-.");
+                System.out.println(" (_, o o ,_)");
+                System.out.println("    /    \\");
+                System.out.println("  `--|__|--'");
+                validInput = true;
+            }
+            else{
                 System.out.println("Invalid choice. Please try again!");
             }
         } while(!validInput);
