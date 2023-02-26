@@ -14,10 +14,12 @@ public class animalpicker {
                 System.out.println("  (  =  =  )");
                 System.out.println("   (   _   )");
                 System.out.println("    (____)");
+                validInput = true;
             } else if (animalChoice.equalsIgnoreCase("cat")) {
                 System.out.println(" /\\_/\\");
                 System.out.println("( o.o )");
                 System.out.println(" > ^ <");
+                validInput = true;
             }else if (animalChoice.equalsIgnoreCase("fish")) {
                 System.out.println("     ><> ");
                 System.out.println("  ,-'`~`'-.");
